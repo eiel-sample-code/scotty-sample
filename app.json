@@ -1,0 +1,12 @@
+{
+  "name": "Scotty Sample",
+  "description": "Haskell Web Framework Scotty Sample Progarm",
+  "repository": "https://github.com/eiel/scotty-sample"
+  "logo": "",
+  "keywords": [
+    "haskell",
+    "scotty"
+  ],
+  "image": "eiel/scotty-sample",
+  "web": "/app/scotty-sample"
+}

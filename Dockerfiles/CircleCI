@@ -1,0 +1,4 @@
+FROM google/debian:wheezy
+
+COPY dist/scotty-sample /app/
+RUN mkdir /app/user
